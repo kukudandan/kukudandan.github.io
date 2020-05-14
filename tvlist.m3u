@@ -5,6 +5,6 @@ http://198.16.106.58:8278/phoenixtv_hd/playlist.m3u8?tid=MFEF2235818722358187&ct
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港      台",凤凰资讯
 http://198.16.106.58:8278/phoenixinfo_hd/playlist.m3u8?tid=MD9D2070323320703233&ct=18392&tsum=0dbde382443ff4f7bcc8903e660e5075
 #EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="港      台",J2
-http://198.16.106.58:8278/j2_twn/playlist.m3u8?tid=MD0D5243334052433340&ct=18392&tsum=04f53cdc2418d66063ce1343aea8fb9a
+http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=78&ip=1
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港      台",翡翠台
 http://ldtv.5ay.xyz/daili/nnhk/hk.php?id=78&ip=1
